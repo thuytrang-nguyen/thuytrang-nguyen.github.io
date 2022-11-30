@@ -3,7 +3,7 @@
 <body>
 
 <h1>Thuy Trang Nguyen </h1>
-<p> CV <a href="https://thuytrang-nguyen.github.io/files/CV_thuytrangngu.pdf"></a>  </p>
+<p> <a href="https://thuytrang-nguyen.github.io/files/CV_thuytrangngu.pdf">CV</a>  </p>
 
 </body>
 </html>
